@@ -1,0 +1,8 @@
+Tb (øC)	theta (ø)	Vmelting Bottom (æm/s)	Method
+21.9	1.74	30.42	Shadowgraph
+21.9	43.82	43.67	Shadowgraph
+21.9	0.1	47.2	Backlight
+22.1	2.06	33.6	Backlight
+21.9	18.43	27.83	Backlight
+21.9	31.13	40	Backlight
+21.9	40.4	32.96	Backlight
